@@ -7,7 +7,7 @@
     "keywords": [ "node-red" ],
     "node-red"     : {
         "nodes": {
-            "sample": "tfa/tfa.js"
+            "tfa": "tfa/tfa.js"
         }
     }
 }
